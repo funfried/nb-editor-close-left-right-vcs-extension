@@ -22,7 +22,7 @@
 
 	<groupId>de.funfried.netbeans.plugins</groupId>
 	<artifactId>nb-editor-close-left-right-vcs-extension</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<packaging>nbm</packaging>
 
 	<developers>
@@ -99,7 +99,7 @@
 		<dependency>
 			<groupId>de.funfried.netbeans.plugins</groupId>
 			<artifactId>nb-editor-close-left-right</artifactId>
-			<version>1.0.7-SNAPSHOT</version>
+			<version>1.0.7</version>
 		</dependency>
 
 		<!-- NetBeans -->
@@ -246,7 +246,7 @@
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-gpg-plugin</artifactId>
-					<version>3.2.5</version>
+					<version>3.2.6</version>
 				</plugin>
 				<plugin>
 					<groupId>net.revelc.code.formatter</groupId>
