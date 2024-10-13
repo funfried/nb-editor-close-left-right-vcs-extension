@@ -22,7 +22,7 @@
 
 	<groupId>de.funfried.netbeans.plugins</groupId>
 	<artifactId>nb-editor-close-left-right-vcs-extension</artifactId>
-	<version>0.2</version>
+	<version>0.3</version>
 	<packaging>nbm</packaging>
 
 	<developers>
@@ -100,6 +100,7 @@
 			<groupId>de.funfried.netbeans.plugins</groupId>
 			<artifactId>nb-editor-close-left-right</artifactId>
 			<version>1.0.7</version>
+			<type>nbm</type>
 		</dependency>
 
 		<!-- NetBeans -->
